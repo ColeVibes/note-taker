@@ -14,10 +14,7 @@ First, clone the code to your local machine then cd into the develop folder, the
 ```
 npm install express
 ```
-then 
-```
-npm install uuid
-```
+
 afterwards you can execute the application using ```node server``` in the terminal line.
 
 
