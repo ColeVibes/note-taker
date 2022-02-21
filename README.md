@@ -4,9 +4,10 @@
 This application can be used to write and save personal notes. This application uses an Express.js backend and will save and retrieve note data from a JSON file. 
   
 ## Live Website
-
+https://arcane-hamlet-44138.herokuapp.com/
 
 <br/>
+
 ## Usage
 First, clone the code to your local machine then cd into the develop folder, then you can type 
 
@@ -18,6 +19,10 @@ then
 npm install uuid
 ```
 afterwards you can execute the application using ```node server``` in the terminal line.
+
+
+## Reference Screenshot
+![Screenshot](./images/main-page-screenshot.png)
 
 ## Credits
 Front-end provided by lerantino in associated with UW Extended Campus <br />
