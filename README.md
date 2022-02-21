@@ -4,11 +4,11 @@
 This application can be used to write and save personal notes. This application uses an Express.js backend and will save and retrieve note data from a JSON file. 
   
 ## Live Website
-https://colevibes.github.io/note-taker/
+
 
 <br/>
 ## Usage
-First, clone the code to your local machine then type 
+First, clone the code to your local machine then cd into the develop folder, then you can type 
 
 ```
 npm install express
